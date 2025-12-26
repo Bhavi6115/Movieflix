@@ -1,7 +1,7 @@
 import React from "react";
 
 const MovieCard = ({
-  movie: { title, vote_avg, poster_path, release_date, original_language },
+  movie: { title, vote_average, poster_path, release_date, original_language },
 }) => {
   return (
     <div className="movie-card">
@@ -18,7 +18,7 @@ const MovieCard = ({
         <div className="content">
           <div className="rating">
             <img src="star.svg" alt="Star icon" />
-            <p>{vote_avg ? vote_avg.toFixed(1) : "N/A"}</p>
+            <p>{vote_average ? vote_average.toFixed(1) : "N/A"}</p>
           </div>
           <span>•</span>
           <p className="lang">{original_language}</p>
