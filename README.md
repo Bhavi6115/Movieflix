@@ -18,11 +18,4 @@ GitHub Pages for deployment
 🌍 Live Demo:
 👉 https://bhavi6115.github.io/Movieflix
 
-🧑‍💻 Installation:
-git clone https://github.com/Bhavi6115/Movieflix.git
-cd Movieflix
-npm install
-npm run dev
 
-🚀 Deployment:
-npm run deploy
