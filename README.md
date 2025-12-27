@@ -1,28 +1,28 @@
 🎬 Movieflix: 🔍 Search smarter. Discover better.
 Movieflix is a movie discovery web app that lets users search for any movie and instantly view its rating and release year. It’s built to make choosing your next movie fast and effortless.
 
-🚀 Features
+🚀 Features:
 🔎 Search for any movie
 ⭐ View movie rating
 📅 Check release year instantly
 ⚡ Super-fast UI powered by Vite
 🌐 Deployed on GitHub Pages
 
-🛠 Tech Stack
+🛠 Tech Stack:
 React for	Frontend UI,
 Vite to	Build Tool,
 Appwrite for Backend,
 TMDb API,
 GitHub Pages for deployment
 
-🌍 Live Demo
+🌍 Live Demo:
 👉 https://bhavi6115.github.io/Movieflix
 
-🧑‍💻 Installation
+🧑‍💻 Installation:
 git clone https://github.com/Bhavi6115/Movieflix.git
 cd Movieflix
 npm install
 npm run dev
 
-🚀 Deployment
+🚀 Deployment:
 npm run deploy
