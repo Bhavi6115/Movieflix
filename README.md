@@ -1,16 +1,31 @@
-# React + Vite
+.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎬 Movieflix: 🔍 Search smarter. Discover better.
+Movieflix is a movie discovery web app that lets users search for any movie and instantly view its rating and release year. It’s built to make choosing your next movie fast and effortless.
 
-Currently, two official plugins are available:
+🚀 Features
+🔎 Search for any movie
+⭐ View movie rating
+📅 Check release year instantly
+⚡ Super-fast UI powered by Vite
+🌐 Deployed on GitHub Pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack
+Technology	Use
+React	Frontend UI
+Vite	Build Tool
+Appwrite	Backend Database
+TMDb API	Movie Data
+GitHub Pages	Hosting
+🌍 Live Demo
 
-## React Compiler
+👉 https://bhavi6115.github.io/Movieflix
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧑‍💻 Installation
+git clone https://github.com/Bhavi6115/Movieflix.git
+cd Movieflix
+npm install
+npm run dev
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Deployment
+npm run deploy
