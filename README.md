@@ -9,12 +9,11 @@ Movieflix is a movie discovery web app that lets users search for any movie and 
 🌐 Deployed on GitHub Pages
 
 🛠 Tech Stack
-Technology	Use
-React	Frontend UI
-Vite	Build Tool
-Appwrite	Backend Database
-TMDb API	Movie Data
-GitHub Pages	Hosting
+React for	Frontend UI,
+Vite to	Build Tool,
+Appwrite for Backend,
+TMDb API,
+GitHub Pages for deployment
 
 🌍 Live Demo
 👉 https://bhavi6115.github.io/Movieflix
